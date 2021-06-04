@@ -1,4 +1,4 @@
---This was a 5 person group project. Only one team member contributed code, I put this together almost entirely myself. Less than ideal but I refused to be defeated! :)
+--This was supposed to be a 5 person group project. Only one other team member contributed code, I put this together almost entirely myself. I refused to be defeated! :)
 
 Application Name: **Schedule Master**
 
