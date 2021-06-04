@@ -1,4 +1,3 @@
-# Team: 
 
 Application Name: **Schedule Master**
 
